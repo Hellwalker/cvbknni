@@ -13,4 +13,6 @@ The cvbknni was based on the knn kernel, with cross-validation to optimize the v
 The original code was written in Matlab R2017. (Matlab R2016a - R2018b should be fine)
 
 
+cvbknni was written as IDknnimpute.m and IDknnimpute3.m, the difference was imputation ordering methods. 
 
+if you find anything not right, or missing component, please contact me via hellwalkerdh[at]gmail[dot]com
